@@ -2,9 +2,9 @@
 
 
 - I’m currently working on a machine learning project at Ficus Data
-- I’m currently learning how to create and use Testing Environments
-- I’m looking to collaborate on open source projects
-- I’m looking for help with improving my activity on GitHub
+- Currently learning how to create and use Testing Environments
+- Looking to collaborate on open source projects
+- Looking for help with improving my activity on GitHub
 
 ---
 ### I have experience with:
