@@ -1,10 +1,10 @@
 ## Hello, I am Nicolas Enea <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
-- 🔭 I’m currently working on a machine learning project at Ficus Data
-- 🌱 I’m currently learning how to create and use Testing Environments
-- 👯 I’m looking to collaborate on open source projects
-- 🤔 I’m looking for help with improving my activity on GitHub
+- I’m currently working on a machine learning project at Ficus Data
+- I’m currently learning how to create and use Testing Environments
+- I’m looking to collaborate on open source projects
+- I’m looking for help with improving my activity on GitHub
 
 ---
 ### I have experience with:
