@@ -19,10 +19,10 @@
 <!-- ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=nicoenea&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicoenea&layout=compact&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
  -->
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nicoenea&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
+ 
+ <a href="https://github.com/nicoenea/nicoenea">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicoenea&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=nicoenea&layout=compact&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicoenea&layout=compact&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
+<a href="https://github.com/nicoenea/nicoenea">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nicoenea&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
-
