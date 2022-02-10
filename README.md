@@ -17,12 +17,12 @@
 
 ## Languages and Tools
 
-<img src="images/python.svg" width="60px" height="60px">
-<img src="images/cpp.svg" width="60px" height="60px">
-<img src="images/java.svg" width="60px" height="60px">
-<img src="images/android.svg" width="60px" height="60px">
-<img src="images/flutter.svg" width="60px" height="60px">
-<img src="images/wordpress.svg" width="60px" height="60px">
+<img src="images/python.svg" width="60px" height="60px"> <img
+ src="images/cpp.svg" width="60px" height="60px"> <img 
+ src="images/java.svg" width="60px" height="60px"> <img
+ src="images/android.svg" width="60px" height="60px"> <img
+ src="images/flutter.svg" width="60px" height="60px"> <img
+ src="images/wordpress.svg" width="60px" height="60px">
 
 <!-- <img src="images/html5-original-wordmark.svg" style="background-color:#FFFFFF; border-radius:10px; padding:5px; width:50px; height:50px">
 <img src="images/css3-original-wordmark.svg" style="background-color:#FFFFFF; border-radius:10px; padding:5px; width:50px; height:50px">
