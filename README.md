@@ -17,23 +17,28 @@
 
 ---
 
-<div align="center">
 <h2>Languages and Tools<h2>
 
-<img src="images/python.svg" width="60px" height="60px" style="background-color:#EEEEEE; border-radius:10px;">
-<img src="images/html5-original-wordmark.svg" style="background-color:#FFFFFF; border-radius:10px; padding:5px; width:50px; height:50px">
+<img src="images/python.svg" width="60px" height="60px">
+<img src="images/cpp.svg" width="60px" height="60px">
+<img src="images/java.svg" width="60px" height="60px">
+<img src="images/android.svg" width="60px" height="60px">
+<img src="images/flutter.svg" width="60px" height="60px">
+<img src="images/wordpress.svg" width="60px" height="60px">
+
+<!-- <img src="images/html5-original-wordmark.svg" style="background-color:#FFFFFF; border-radius:10px; padding:5px; width:50px; height:50px">
 <img src="images/css3-original-wordmark.svg" style="background-color:#FFFFFF; border-radius:10px; padding:5px; width:50px; height:50px">
 <img src="images/javascript-original.svg" style="background-color:#FFFFFF; border-radius:10px; padding:5px; width:50px; height:50px">
 <img src="images/android-original.svg" style="background-color:#FFFFFF; border-radius:10px; padding:5px; width:50px; height:50px">
-<!-- <img src="images/wordpress-plain.svg" style="background-color:#FFFFFF; border-radius:10px; padding:5px; width:50px; height:50px"> -->
+<img src="images/wordpress-plain.svg" style="background-color:#FFFFFF; border-radius:10px; padding:5px; width:50px; height:50px">
 <img src="images/java-original.svg" style="background-color:#FFFFFF; border-radius:10px; padding:5px; width:50px; height:50px">
 <img src="images/cpp.svg" style="background-color:#FFFFFF; border-radius:10px; padding:5px; width:50px; height:50px">
 
 <img src="images/react-original.svg" style="background-color:#FFFFFF; border-radius:10px; padding:5px; width:50px; height:50px">
 <img src="images/flutter-original.svg" style="background-color:#FFFFFF; border-radius:10px; padding:10px; width:40px; height:40px">
 <img src="images/bash-original.svg" style="background-color:#FFFFFF; border-radius:10px; padding:5px; width:50px; height:50px">
-<!-- <img src="images/nodejs-original.svg" style="background-color:#FFFFFF; border-radius:10px; padding:5px; width:50px; height:50px"> -->
-<!-- <img src="images/vuejs-original.svg" style="background-color:#FFFFFF; border-radius:10px; padding:5px; width:50px; height:50px"> -->
+<img src="images/nodejs-original.svg" style="background-color:#FFFFFF; border-radius:10px; padding:5px; width:50px; height:50px">
+<img src="images/vuejs-original.svg" style="background-color:#FFFFFF; border-radius:10px; padding:5px; width:50px; height:50px"> -->
 
 
 
@@ -42,7 +47,7 @@
 </kbd> -->
 
 ---
-<h2>Contact me<h2>   
+## Contact Me  
 
 [<img src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" width="50px" height="50px" />](https://www.linkedin.com/in/nicolasenea/)
 
@@ -59,7 +64,6 @@
   
 </a>
 
-</div>
 <!-- [![Nicolas' Activity Graph](https://activity-graph.herokuapp.com/graph?username=nicoenea&custom_title=Nicolas's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://abhigyantrips.dev)
  -->
  
