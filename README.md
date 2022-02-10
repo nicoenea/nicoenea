@@ -1,21 +1,18 @@
 <!-- <img src="animated.svg"> -->
-<div align="center">
-  <h2 style="font-weight:700; font-family:'Roboto', sans-serif"> 
-  Hello, I am Nicolas Enea 
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
-  </h2>
-</div>
+
+## Hello, I am Nicolas Enea  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
+
 
 <br>
 
-<div style="display:flex; justify-content:center;">
+
   <ul>
     <li>I’m currently working on a frontend project at Ficus Data</li>
     <li>Currently learning how to use the Vue.js framework</li>
     <li>Looking to collaborate on open source projects</li>
     <li>Looking for help with improving my activity on GitHub</li>
   </ul>
-</div>
+
 
 
 ---
