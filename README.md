@@ -3,7 +3,6 @@
 ## Hello, I am Nicolas Enea  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 
 
-<br>
 
 
   <ul>
@@ -12,7 +11,6 @@
     <li>Looking to collaborate on open source projects</li>
     <li>Looking for help with improving my activity on GitHub</li>
   </ul>
-</br>
 
 
 ---
