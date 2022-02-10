@@ -17,7 +17,7 @@
 
 ---
 
-<h2>Languages and Tools<h2>
+## Languages and Tools
 
 <img src="images/python.svg" width="60px" height="60px">
 <img src="images/cpp.svg" width="60px" height="60px">
