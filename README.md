@@ -9,8 +9,9 @@
 ---
 ### I have experience with:
 <img src="https://camo.githubusercontent.com/aa96ee3a3352c9c3c2161d3e95698d0885a277ab85d617fe77912627d37a3959/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f707974686f6e2e737667" width="60px" height="60px" /> <img src="https://camo.githubusercontent.com/750365ec8e10a2a4075ffb09fd644c3176c98638a7c45a79a8a40366a9d64f3a/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f666c75747465722e737667" width="60px" height="60px" /> <img src="https://camo.githubusercontent.com/be575aa85a73adb1f56ef072b806f513045f68e2e50a9945c763bf65006dcfa6/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f616e64726f69642e737667" width="60px" height="60px" /> <img src="https://camo.githubusercontent.com/1141fa873ae7371cd6b723fef0cd57ca14923123983844571416854b7f5e8fb6/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f63706c7573706c75732e737667" width="60px" height="60px" /> <img src="https://camo.githubusercontent.com/702655104afd65ad02c658dd178f2400bcea86ef7c4e6545562bceacf7856228/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f776f726470726573732e737667" width="60px" height="60px" /> <img src="https://camo.githubusercontent.com/a870803f30db1d15495072fa9e946a7fa6a6fc1a47fe12324aaf7509c410fc4a/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6a6176612e737667" width="60px" height="60px" />
+<kbd>
 <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/programming%20languages/bash.svg" width="60px" height="60px" />
-
+</kbd>
 ---
 ### Contact me   
 
@@ -28,4 +29,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=nicoenea&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Nicolas's GitHub Stats" />
 </a>
 
-[![Nicolas' Activity Graph](https://activity-graph.herokuapp.com/graph?username=nicoenea&custom_title=Nicolas's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://abhigyantrips.dev)
+<!-- [![Nicolas' Activity Graph](https://activity-graph.herokuapp.com/graph?username=nicoenea&custom_title=Nicolas's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://abhigyantrips.dev)
+ -->
+ 
+ 
