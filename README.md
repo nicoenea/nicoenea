@@ -28,4 +28,4 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=nicoenea&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Nicolas's GitHub Stats" />
 </a>
 
-[![Nicolas' Activity Graph](https://activity-graph.herokuapp.com/graph?username=abhigyantrips&custom_title=Nicolas's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://abhigyantrips.dev)
+[![Nicolas' Activity Graph](https://activity-graph.herokuapp.com/graph?username=nicoenea&custom_title=Nicolas's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://abhigyantrips.dev)
