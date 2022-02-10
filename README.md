@@ -1,21 +1,53 @@
-## Hello, I am Nicolas Enea <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<!-- <img src="animated.svg"> -->
+<div align="center">
+  <h2 style="font-weight:700; font-family:'Roboto', sans-serif"> 
+  Hello, I am Nicolas Enea 
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
+  </h2>
+</div>
 
+<br>
 
-- I’m currently working on a frontend project at Ficus Data
-- Currently learning how to use the Vue.js framework
-- Looking to collaborate on open source projects
-- Looking for help with improving my activity on GitHub
+<div style="display:flex; justify-content:center;">
+  <ul>
+    <li>I’m currently working on a frontend project at Ficus Data</li>
+    <li>Currently learning how to use the Vue.js framework</li>
+    <li>Looking to collaborate on open source projects</li>
+    <li>Looking for help with improving my activity on GitHub</li>
+  </ul>
+</div>
+
 
 ---
-### I have experience with:
-<img src="https://camo.githubusercontent.com/aa96ee3a3352c9c3c2161d3e95698d0885a277ab85d617fe77912627d37a3959/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f707974686f6e2e737667" width="60px" height="60px" /> <img src="https://camo.githubusercontent.com/750365ec8e10a2a4075ffb09fd644c3176c98638a7c45a79a8a40366a9d64f3a/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f666c75747465722e737667" width="60px" height="60px" /> <img src="https://camo.githubusercontent.com/be575aa85a73adb1f56ef072b806f513045f68e2e50a9945c763bf65006dcfa6/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f616e64726f69642e737667" width="60px" height="60px" /> <img src="https://camo.githubusercontent.com/1141fa873ae7371cd6b723fef0cd57ca14923123983844571416854b7f5e8fb6/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f63706c7573706c75732e737667" width="60px" height="60px" /> <img src="https://camo.githubusercontent.com/702655104afd65ad02c658dd178f2400bcea86ef7c4e6545562bceacf7856228/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f776f726470726573732e737667" width="60px" height="60px" /> <img src="https://camo.githubusercontent.com/a870803f30db1d15495072fa9e946a7fa6a6fc1a47fe12324aaf7509c410fc4a/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6a6176612e737667" width="60px" height="60px" />
+
+<div align="center">
+<h2>Languages and Tools<h2>
+
+<img src="images/python.svg" width="60px" height="60px" style="background-color:#EEEEEE; border-radius:10px;">
+<img src="images/html5-original-wordmark.svg" style="background-color:#FFFFFF; border-radius:10px; padding:5px; width:50px; height:50px">
+<img src="images/css3-original-wordmark.svg" style="background-color:#FFFFFF; border-radius:10px; padding:5px; width:50px; height:50px">
+<img src="images/javascript-original.svg" style="background-color:#FFFFFF; border-radius:10px; padding:5px; width:50px; height:50px">
+<img src="images/android-original.svg" style="background-color:#FFFFFF; border-radius:10px; padding:5px; width:50px; height:50px">
+<!-- <img src="images/wordpress-plain.svg" style="background-color:#FFFFFF; border-radius:10px; padding:5px; width:50px; height:50px"> -->
+<img src="images/java-original.svg" style="background-color:#FFFFFF; border-radius:10px; padding:5px; width:50px; height:50px">
+<img src="images/cpp.svg" style="background-color:#FFFFFF; border-radius:10px; padding:5px; width:50px; height:50px">
+
+<img src="images/react-original.svg" style="background-color:#FFFFFF; border-radius:10px; padding:5px; width:50px; height:50px">
+<img src="images/flutter-original.svg" style="background-color:#FFFFFF; border-radius:10px; padding:10px; width:40px; height:40px">
+<img src="images/bash-original.svg" style="background-color:#FFFFFF; border-radius:10px; padding:5px; width:50px; height:50px">
+<!-- <img src="images/nodejs-original.svg" style="background-color:#FFFFFF; border-radius:10px; padding:5px; width:50px; height:50px"> -->
+<!-- <img src="images/vuejs-original.svg" style="background-color:#FFFFFF; border-radius:10px; padding:5px; width:50px; height:50px"> -->
+
+
+
 <!-- <kbd>
-<img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/programming%20languages/bash.svg" width="60px" height="60px" />
+<img src="python.svg" width="64px" height="64px"> 
 </kbd> -->
----
-### Contact me   
 
-[<img src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" width="50px" height="25px" />](https://www.linkedin.com/in/nicolasenea/)
+---
+<h2>Contact me<h2>   
+
+[<img src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" width="50px" height="50px" />](https://www.linkedin.com/in/nicolasenea/)
 
 ---
 <!-- ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=nicoenea&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515) 
@@ -23,12 +55,14 @@
  -->
  
  <a href="https://github.com/nicoenea/nicoenea">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicoenea&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicoenea&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nicoenea&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Nicolas's GitHub Stats" />
 </a>
 <a href="https://github.com/nicoenea/nicoenea">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nicoenea&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Nicolas's GitHub Stats" />
+  
 </a>
 
+</div>
 <!-- [![Nicolas' Activity Graph](https://activity-graph.herokuapp.com/graph?username=nicoenea&custom_title=Nicolas's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://abhigyantrips.dev)
  -->
  
