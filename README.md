@@ -1,8 +1,8 @@
 ## Hello, I am Nicolas Enea <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
-- I’m currently working on a machine learning project at Ficus Data
-- Currently learning how to create and use Testing Environments
+- I’m currently working on a frontend project at Ficus Data
+- Currently learning how to use the Vue.js framework
 - Looking to collaborate on open source projects
 - Looking for help with improving my activity on GitHub
 
