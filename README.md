@@ -20,7 +20,7 @@
  src="images/flutter.svg" width="60px" height="60px"> <img
  src="images/wordpress.svg" width="60px" height="60px">
 
-<!-- <img src="images/html5-original-wordmark.svg" style="background-color:#FFFFFF; border-radius:10px; padding:5px; width:50px; height:50px">
+<img src="images/html5-original-wordmark.svg" style="background-color:#FFFFFF; border-radius:10px; padding:5px; width:50px; height:50px">
 <img src="images/css3-original-wordmark.svg" style="background-color:#FFFFFF; border-radius:10px; padding:5px; width:50px; height:50px">
 <img src="images/javascript-original.svg" style="background-color:#FFFFFF; border-radius:10px; padding:5px; width:50px; height:50px">
 <img src="images/android-original.svg" style="background-color:#FFFFFF; border-radius:10px; padding:5px; width:50px; height:50px">
@@ -32,7 +32,7 @@
 <img src="images/flutter-original.svg" style="background-color:#FFFFFF; border-radius:10px; padding:10px; width:40px; height:40px">
 <img src="images/bash-original.svg" style="background-color:#FFFFFF; border-radius:10px; padding:5px; width:50px; height:50px">
 <img src="images/nodejs-original.svg" style="background-color:#FFFFFF; border-radius:10px; padding:5px; width:50px; height:50px">
-<img src="images/vuejs-original.svg" style="background-color:#FFFFFF; border-radius:10px; padding:5px; width:50px; height:50px"> -->
+<img src="images/vuejs-original.svg" style="background-color:#FFFFFF; border-radius:10px; padding:5px; width:50px; height:50px">
 
 
 
