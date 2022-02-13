@@ -1,7 +1,5 @@
 <img src="animated.svg">
-
 <!-- ## I am Nicolas Enea  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">  -->
-
   <ul>
     <li>I’m currently working on a frontend project at Ficus Data</li>
     <li>Currently learning how to use the Vue.js framework</li>
@@ -11,7 +9,7 @@
 
 ---
 
-## Languages and Tools
+## Languages/Frameworks and Tools
 
 [<img src="images/python.svg" width="60px" height="60px">](https://www.python.org/)
 [<img src="images/java-original.svg" width="60px" height="60px">](https://developer.oracle.com/java/)
