@@ -10,17 +10,23 @@
                 justify-content: center;
                 margin: 0;
                 width: 100%;
-                height: 400px;
+                height: 350px;
                 background: #333;
                 background-size: 600% 400%;
                 border-radius: 10px;
                 text-align: center;
                 }
-                h1 {
+
+                .image {
+                    height: auto;
+                    width: 80px;
+                    
+                }
+                h1{
                 text-align: center;
                 color: #fff;
                 font-size: 5em;
-                letter-spacing: 8px;
+                letter-spacing: 4px;
                 font-family: "Lucida Console", Monaco, monospace;	
                 font-weight: 400;
                 /*Create overlap*/
@@ -31,13 +37,27 @@
                 
                 animation: glitch1 2.5s infinite;
                 }
+                
                 h1:nth-child(2) {
                 color: #67f3da;
                 animation: glitch2 2.5s infinite;
+                
                 }
                 h1:nth-child(3) {
                 color: #f16f6f;
                 animation: glitch3 2.5s infinite;
+                }
+                h1:nth-child(4) {
+                color: #fff;
+                animation: glitch1 2.5s infinite;
+                }h1:nth-child(5) {
+                color: #67f3da;
+                animation: glitch2 2.5s infinite;
+                }
+                h1:nth-child(6) {
+                color: #f16f6f;
+                animation: glitch3 2.5s infinite;
+                
                 }
                 /*Keyframes*/
                 @keyframes glitch1 {
@@ -207,6 +227,10 @@
                 <h1>Hello, World!</h1>
                 <h1>Hello, World!</h1>
                 <h1>Hello, World!</h1>
+                <h1 style="margin-top:100px">I am Nicolas Enea</h1>
+                <h1>I am Nicolas Enea</h1>
+                <h1>I am Nicolas Enea</h1>
+
             </div>
             
         </div>

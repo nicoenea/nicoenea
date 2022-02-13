@@ -1,6 +1,6 @@
 <img src="animated.svg">
 
-## I am Nicolas Enea  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
+<!-- ## I am Nicolas Enea  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">  -->
 
   <ul>
     <li>I’m currently working on a frontend project at Ficus Data</li>
@@ -18,13 +18,10 @@
 [<img src="images/css3-original-wordmark.svg" width="60px" height="60px">](https://www.w3.org/TR/CSS/)
 [<img src="images/html5-original-wordmark.svg" width="60px" height="60px">](https://html.spec.whatwg.org/multipage/) 
 [<img src="images/javascript-original.svg" width="60px" height="60px">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-<!-- <img src="images/typescript.svg" width="60px" height="60px">  -->
-
 [<img src="images/android-original.svg" width="60px" height="60px">](https://developer.android.com/)
 [<img src="images/react-original.svg" width="60px" height="60px">](https://reactjs.org/)
 [<img src="images/vuejs-original.svg" width="60px" height="60px">](https://vuejs.org/)
 [<img src="images/googlecloud-original.svg" width="60px" height="60px">](https://cloud.google.com/)
-
 [<img src="images/ubuntu.svg" width="60px" height="60px">](https://ubuntu.com/)
 
 
