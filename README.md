@@ -1,4 +1,4 @@
-<img src="animated.svg">
+[<img src="animated.svg">](https://nicoenea.github.io/)
 <!-- ## I am Nicolas Enea  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">  -->
   <ul>
     <li>I’m currently working on a frontend project at Ficus Data</li>
