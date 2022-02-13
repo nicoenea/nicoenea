@@ -14,7 +14,7 @@
 ## Languages and Tools
 
 [<img src="images/python.svg" width="60px" height="60px">](https://www.python.org/)
-[<img src="images/java.svg" width="60px" height="60px">](https://developer.oracle.com/java/)
+[<img src="images/java-original.svg" width="60px" height="60px">](https://developer.oracle.com/java/)
 [<img src="images/css3-original-wordmark.svg" width="60px" height="60px">](https://www.w3.org/TR/CSS/)
 [<img src="images/html5-original-wordmark.svg" width="60px" height="60px">](https://html.spec.whatwg.org/multipage/) 
 [<img src="images/javascript-original.svg" width="60px" height="60px">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -24,6 +24,7 @@
 [<img src="images/react-original.svg" width="60px" height="60px">](https://reactjs.org/)
 [<img src="images/vuejs-original.svg" width="60px" height="60px">](https://vuejs.org/)
 [<img src="images/googlecloud-original.svg" width="60px" height="60px">](https://cloud.google.com/)
+
 [<img src="images/ubuntu.svg" width="60px" height="60px">](https://ubuntu.com/)
 
 
