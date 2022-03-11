@@ -4,7 +4,7 @@
     <li>I’m currently working on a frontend project at Ficus Data</li>
     <li>Currently learning how to use the Vue.js framework</li>
     <li>Looking to collaborate on open source projects</li>
-    <li>Looking for help with improving my activity on GitHub</li>
+    <li>Learning more about Blockchain, Smart Contracts and Hyperledger Fabric</li>
   </ul>
 
 ---
