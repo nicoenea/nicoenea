@@ -1,7 +1,6 @@
 [<img src="animated.svg">](https://nicoenea.github.io/)
 <!-- ## I am Nicolas Enea  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">  -->
 
----
 
 ## i have worked with
 
