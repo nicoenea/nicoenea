@@ -224,12 +224,12 @@
                 }
 			</style>
 			<div class="container">
-                <h1>Hello, World!</h1>
-                <h1>Hello, World!</h1>
-                <h1>Hello, World!</h1>
-                <h1 style="margin-top:100px">I am Nicolas Enea</h1>
-                <h1>I am Nicolas Enea</h1>
-                <h1>I am Nicolas Enea</h1>
+                <h1>hello, world!</h1>
+                <h1>hello, world!</h1>
+                <h1>hello, world!</h1>
+                <h1 style="margin-top:100px">i am nicolas enea</h1>
+                <h1>i am nicolas enea</h1>
+                <h1>i am nicolas enea</h1>
 
             </div>
             
