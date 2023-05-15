@@ -3,7 +3,6 @@
 
 
 ## i have worked with
-
 [<img src="images/python.svg" width="60px" height="60px">](https://www.python.org/)
 [<img src="images/java-original.svg" width="60px" height="60px">](https://developer.oracle.com/java/)
 [<img src="images/css3-original-wordmark.svg" width="60px" height="60px">](https://www.w3.org/TR/CSS/)
