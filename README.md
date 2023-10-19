@@ -5,14 +5,10 @@
 ## i have worked with
 [<img src="images/python.svg" width="60px" height="60px">](https://www.python.org/)
 [<img src="images/java-original.svg" width="60px" height="60px">](https://developer.oracle.com/java/)
-[<img src="images/css3-original-wordmark.svg" width="60px" height="60px">](https://www.w3.org/TR/CSS/)
-[<img src="images/html5-original-wordmark.svg" width="60px" height="60px">](https://html.spec.whatwg.org/multipage/) 
 [<img src="images/javascript-original.svg" width="60px" height="60px">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [<img src="images/android-original.svg" width="60px" height="60px">](https://developer.android.com/)
 [<img src="images/react-original.svg" width="60px" height="60px">](https://reactjs.org/)
-[<img src="images/vuejs-original.svg" width="60px" height="60px">](https://vuejs.org/)
 [<img src="images/googlecloud-original.svg" width="60px" height="60px">](https://cloud.google.com/)
-[<img src="images/ubuntu.svg" width="60px" height="60px">](https://ubuntu.com/)
 
 
 
@@ -44,7 +40,7 @@
 ---
 <!-- ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=nicoenea&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicoenea&layout=compact&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
- -->
+
  
  <a href="https://github.com/nicoenea/nicoenea">
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicoenea&hide=java,html,tex,bash,shell&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
@@ -53,7 +49,7 @@
 <a href="https://github.com/nicoenea/nicoenea">
   
 </a>
-
+ -->
 
  
  
